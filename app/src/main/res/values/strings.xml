@@ -1,0 +1,68 @@
+<resources>
+    <string name="app_name">UNYCraft</string>
+    <string name="nama_produk">Nama Barang</string>
+    <string name="description">Deskripsi</string>
+    <string name="profilmenu"></string>
+    <string name="manama">Dibuat oleh : Ataka Dzulfikar</string>
+    <string name="imel">Email : zullneedbackup@gmail.com</string>
+    <string-array name="data_name">
+        <item>Dompet Gantungan Kunci mini</item>
+        <item>Dompet Kulit Cewe Trendy</item>
+        <item>Dompet Kulit Cowo Trendy</item>
+        <item>Gunungan Wayang Kulit</item>
+        <item>Mangkok Gerabah keren</item>
+        <item>Miniatur Becak Kayu</item>
+        <item>Miniatur Kapal Kayu</item>
+        <item>Pot Gerabah Tanah Liat</item>
+        <item>Wayang Kulit Puntadewa</item>
+        <item>Tas Bambu Kualitas no 1</item>
+        <item>Tas Kulit Coklat berkualitas</item>
+        <item>Tas Kulit Hitam Gagah</item>
+
+    </string-array>
+
+    <string-array name="data_description">
+        <item>Dompet gantungan kunci mini yang praktis dan stylish ini merupakan solusi sempurna untuk menyimpan barang-barang kecil seperti uang koin, kunci, atau bahkan kartu-kartu penting. Dengan desain yang compact dan elegan, dompet ini mudah dibawa ke mana saja. Bagian luarnya dirancang dengan bahan berkualitas yang memberikan kesan modern, sementara bagian dalamnya memiliki ruang yang cukup untuk menyimpan barang-barang esensial Anda. Cocok digunakan dalam keseharian atau saat bepergian. Warna-warna yang tersedia juga sangat trendy, menambah kesan fashionable dan modis bagi penggunanya. Dompet ini tidak hanya fungsional tetapi juga melengkapi gaya Anda setiap hari. Sangat pas bagi Anda yang mengutamakan kenyamanan dan kepraktisan dalam satu produk.</item>
+
+        <item>Dompet kulit cewek ini dirancang khusus untuk para wanita yang ingin tampil trendy dan elegan di berbagai kesempatan. Dibuat dari kulit asli yang berkualitas tinggi, dompet ini menonjolkan keindahan desain yang modern tanpa mengurangi fungsi utamanya sebagai penyimpan uang, kartu, atau barang-barang kecil lainnya. Terdapat beberapa kompartemen di dalamnya yang memudahkan Anda mengatur isi dompet secara rapi. Cocok digunakan untuk acara formal maupun kasual, dompet ini hadir dengan berbagai pilihan warna yang menarik, sehingga bisa disesuaikan dengan selera Anda. Detail jahitan yang halus dan rapi menambah kesan mewah pada dompet ini. Produk ini sangat ideal bagi Anda yang ingin menggabungkan estetika dan fungsionalitas dalam aksesori fashion Anda.</item>
+
+        <item>Dompet kulit cowok yang trendy ini menggabungkan antara kesan maskulin dan modern, cocok bagi pria yang ingin tampil keren dan elegan dalam setiap kesempatan. Terbuat dari bahan kulit berkualitas tinggi, dompet ini tidak hanya tahan lama tetapi juga menghadirkan kesan berkelas. Dengan desain yang simpel namun stylish, dompet ini memiliki beberapa slot untuk menyimpan uang, kartu, dan bahkan SIM atau ID card Anda. Bentuknya yang tipis membuatnya nyaman disimpan di saku celana tanpa membuatnya terlihat bulky. Dengan pilihan warna netral yang klasik, dompet ini menjadi pilihan yang sempurna bagi pria yang menyukai tampilan yang minimalis namun tetap berkelas.</item>
+
+        <item>Gunungan wayang kulit klasik ini adalah salah satu simbol kebudayaan Jawa yang sarat akan filosofi mendalam. Gunungan ini sering digunakan dalam pementasan wayang sebagai pengantar cerita, menggambarkan alam semesta dan keseimbangan hidup manusia. Setiap detail pada gunungan ini diukir dengan sangat teliti, menunjukkan keahlian dan ketekunan para pengrajin wayang. Bagi pecinta seni dan budaya, memiliki gunungan wayang kulit ini tidak hanya berarti memiliki sebuah karya seni, tetapi juga menyimpan nilai-nilai filosofis yang sangat tinggi. Benda ini sangat cocok dijadikan koleksi atau pajangan di rumah Anda sebagai pengingat akan kekayaan budaya Indonesia.</item>
+
+        <item>Mangkok gerabah keren ini bukan sekadar wadah makanan biasa, tetapi juga memiliki sentuhan artistik yang membuatnya istimewa. Mangkok ini dibuat dari tanah liat berkualitas yang dibentuk dengan teknik tradisional oleh para pengrajin lokal. Setiap lekukan pada mangkok ini memberikan kesan handmade yang unik, menjadikannya lebih dari sekadar alat makan, melainkan juga elemen dekoratif yang bisa mempercantik ruang makan atau dapur Anda. Dengan desain yang sederhana namun artistik, mangkok ini bisa digunakan untuk berbagai keperluan, mulai dari menyajikan makanan hingga digunakan sebagai dekorasi interior rumah yang memberikan nuansa hangat dan natural. Produk ini sangat cocok bagi Anda yang menyukai peralatan rumah tangga yang unik dan memiliki nilai seni tinggi.</item>
+
+        <item>Miniatur becak kayu ini adalah karya seni yang unik dan penuh makna, dibuat dengan tangan oleh pengrajin ahli. Setiap detail pada miniatur ini mencerminkan keindahan dan kerumitan proses pembuatan becak asli, menjadikannya sebagai simbol kehidupan sehari-hari masyarakat Indonesia, khususnya pada masa lalu. Miniatur becak ini sangat cocok untuk dijadikan koleksi atau pajangan di rumah Anda, terutama jika Anda ingin membawa sentuhan budaya tradisional ke dalam interior rumah Anda. Bahan kayu yang digunakan memberikan kesan natural dan klasik, sementara ukuran miniatur yang kompak membuatnya mudah ditempatkan di mana saja. Ini adalah barang yang sempurna bagi para kolektor benda seni yang menggemari produk bernilai sejarah dan budaya.</item>
+
+        <item>Miniatur kapal kayu buatan tangan ini adalah cerminan dari kecintaan pada laut dan tradisi maritim yang kuat di Indonesia. Dibuat dengan sangat teliti oleh pengrajin lokal, miniatur ini memiliki detail yang luar biasa yang menjadikannya bukan sekadar pajangan biasa, tetapi juga karya seni yang penuh makna. Kapal ini melambangkan semangat petualangan dan penjelajahan, serta kecintaan pada kehidupan laut. Bahan kayu yang digunakan dalam pembuatan miniatur ini memberikan nuansa natural dan elegan, membuatnya cocok sebagai elemen dekorasi di rumah Anda. Ini adalah pilihan tepat bagi Anda yang ingin menambahkan sentuhan maritim yang artistik ke dalam ruang tamu atau ruang kerja Anda.</item>
+
+        <item>Pot gerabah tanah liat tradisional ini merupakan pilihan yang sempurna untuk memberikan sentuhan alami pada dekorasi rumah Anda, terutama untuk tanaman hias. Dibuat dengan menggunakan teknik tradisional, pot ini memiliki tampilan yang sangat natural dan organik, menjadikannya pilihan ideal bagi Anda yang ingin menciptakan suasana asri di dalam maupun luar ruangan. Desainnya yang sederhana namun elegan membuat pot ini cocok untuk berbagai jenis tanaman, mulai dari tanaman kecil hingga sedang. Bahan tanah liat yang digunakan tidak hanya kuat dan tahan lama, tetapi juga memiliki porositas yang baik, sehingga tanaman dapat tumbuh dengan sehat. Pot ini juga bisa dijadikan elemen dekoratif yang indah untuk mempercantik teras atau taman Anda.</item>
+
+        <item>Wayang kulit Puntadewa ini adalah karya seni yang menggambarkan tokoh Puntadewa dari kisah Mahabharata. Puntadewa dikenal sebagai sosok yang bijaksana dan adil, serta menjadi simbol dari kebenaran dan ketenangan dalam pewayangan Jawa. Setiap detail pada wayang ini dibuat dengan sangat teliti, mulai dari pakaian hingga ekspresi wajahnya, menjadikannya sebagai karya seni yang bernilai tinggi. Wayang ini sangat cocok untuk koleksi pribadi atau pajangan di rumah, terutama bagi Anda yang menghargai seni tradisional dan budaya Jawa. Produk ini juga bisa menjadi hadiah yang bermakna bagi mereka yang menyukai kisah-kisah klasik dari dunia pewayangan.</item>
+
+        <item>Tas bambu ini adalah solusi ramah lingkungan bagi Anda yang ingin tampil stylish tanpa meninggalkan kesan natural. Dibuat dari bahan bambu berkualitas tinggi, tas ini tidak hanya tahan lama tetapi juga sangat ringan dan nyaman digunakan. Desainnya yang unik dan elegan membuatnya cocok untuk digunakan dalam berbagai acara, baik formal maupun kasual. Selain itu, penggunaan bambu sebagai bahan utama membuat tas ini menjadi pilihan yang lebih berkelanjutan dan mendukung gaya hidup eco-friendly. Dengan berbagai ukuran dan model yang tersedia, tas ini dapat disesuaikan dengan kebutuhan dan selera Anda, baik untuk sehari-hari maupun untuk acara-acara tertentu. Produk ini adalah perpaduan sempurna antara fashion dan tanggung jawab lingkungan.</item>
+
+        <item>Tas kulit coklat ini dirancang untuk Anda yang menginginkan tas berkualitas tinggi yang bisa digunakan dalam jangka waktu lama. Terbuat dari kulit asli yang diproses dengan sangat baik, tas ini tidak hanya awet tetapi juga memiliki tampilan yang sangat elegan. Desainnya yang simpel namun berkelas membuatnya cocok digunakan dalam berbagai kesempatan, baik itu untuk kegiatan sehari-hari, ke kantor, atau bahkan saat menghadiri acara-acara resmi. Dengan ruang yang cukup luas di dalamnya, tas ini sangat fungsional untuk membawa barang-barang penting Anda tanpa mengorbankan gaya. Jahitan yang rapi dan detail pada tas ini menambah kesan mewah dan eksklusif yang membuatnya menonjol dibandingkan tas kulit lainnya.</item>
+
+        <item>Tas kulit hitam yang gagah ini adalah pilihan yang tepat bagi pria yang ingin tampil maskulin dan berkelas. Desainnya yang simple namun kokoh membuat tas ini sangat fleksibel untuk digunakan dalam berbagai suasana, baik formal maupun kasual. Terbuat dari bahan kulit asli berkualitas tinggi, tas ini memiliki daya tahan yang luar biasa dan tetap terlihat stylish meski digunakan dalam jangka waktu lama. Selain itu, tas ini juga sangat fungsional dengan ruang yang cukup luas untuk menyimpan barang-barang esensial seperti laptop, buku, atau dokumen penting lainnya. Warna hitamnya yang klasik membuatnya mudah dipadukan dengan berbagai jenis outfit, menjadikannya aksesori yang serbaguna dan elegan untuk berbagai keperluan.</item>
+
+    </string-array>
+
+
+    <integer-array name="data_photo">
+        <item>@drawable/dompetganci</item>
+        <item>@drawable/dompetkulit</item>
+        <item>@drawable/dompetkulit2</item>
+        <item>@drawable/gunungan</item>
+        <item>@drawable/mangkokgerabah</item>
+        <item>@drawable/miniaturbecak</item>
+        <item>@drawable/miniaturkapal</item>
+        <item>@drawable/pot</item>
+        <item>@drawable/puntadewa</item>
+        <item>@drawable/tasbambu</item>
+        <item>@drawable/tascoklat</item>
+        <item>@drawable/tashitam</item>
+
+    </integer-array>
+
+</resources>

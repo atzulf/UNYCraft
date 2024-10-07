@@ -1,0 +1,51 @@
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <LinearLayout
+        android:id="@+id/main"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:padding="16dp">
+
+        <!-- ImageView for item photo -->
+        <ImageView
+            android:id="@+id/img_item_photo"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:contentDescription="Item Photo"
+            android:layout_gravity="center"
+            android:paddingBottom="16dp" />
+
+        <!-- TextView for item name -->
+        <TextView
+            android:id="@+id/tv_item_name"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Item Name"
+            android:textColor="@color/black"
+            android:fontFamily="@font/poppins"
+            android:textSize="22sp"
+            android:textStyle="bold"
+            android:gravity="center"
+            android:paddingTop="8dp"
+            android:paddingBottom="12dp" />
+
+        <!-- TextView for item description -->
+        <TextView
+            android:id="@+id/tv_item_description"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Item Description"
+            android:fontFamily="@font/poppins"
+            android:textColor="@color/black"
+            android:lineSpacingExtra="4dp"
+            android:textAlignment="viewStart"
+            android:paddingTop="8dp"
+            android:paddingBottom="16dp"
+            android:textSize="16sp" />
+
+    </LinearLayout>
+
+</ScrollView>
